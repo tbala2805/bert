@@ -1,0 +1,4 @@
+setfit==0.4.0
+transformers>=4.30.0
+datasets
+pandas
